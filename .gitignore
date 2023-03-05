@@ -1,0 +1,5 @@
+.vscode
+CMakeFiles
+MyOpenGLProject
+*.cmake
+CMakeCache.txt
